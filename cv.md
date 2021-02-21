@@ -6,6 +6,7 @@ Date of Birth: **12 Feb 1993**;
 * **Phone**: +375298017003;
 * **Viber**: +375298017003;
 * **Vk**: https://vk.com/maxsoshyn;
+* **Telegram**: https://t.me/Daxay
 
 ### **Summary:**
 My goal is to gain knowledge in programming and have an opportunity to change a job. I have very good basis of theory and I am ready to practice. I am a quick learner and I am interested in IT-sphere. I don't have an experience in IT, but I am eager to start.
