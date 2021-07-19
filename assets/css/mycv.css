@@ -132,3 +132,9 @@
       border-radius: 0 0 60px 60px;
     }
   }
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
